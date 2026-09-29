@@ -19,15 +19,6 @@ I'm a Full Stack Developer and Shopify Expert with over 3 years of experience. I
 
 <br/>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hamza's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" alt="Hamza's GitHub Streak" />
-</div>
-
-<br/>
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
